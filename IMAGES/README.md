@@ -126,7 +126,7 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and distribute this project with attribution.
 
 ##  🌍 AUTHOR
-🌍 Developed BY ** [EMMANUEL EMATHE]
+🌍 Developed BY ** [Nelly melita Lerosion]
 yaml
 Copy code
 
